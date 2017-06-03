@@ -1,0 +1,18 @@
+[ar:Lyrics artist]
+[al:Album where the song is from]
+[ti:Lyrics (song) title]
+[au:Creator of the Songtext]
+[length:How long the song is]
+[by:Creator of the LRC file]
+[offset:+/- Overall timestamp adjustment in milliseconds, + shifts time up, - shifts down]
+
+[00:01.00] Bla bla bla
+[00:03.21] Test line 12345
+[00:12.00]Line 1 lyrics
+[00:17.20]F: Line 2 lyrics
+[00:21.10]M: Line 3 lyrics
+[00:24.00]Line 4 lyrics
+[00:28.25]D: Line 5 lyrics
+[00:29.02]Line 6 lyrics
+[00:34.02]Line 7 lyrics <00:36.12> Yes Yes <00:39.64> No No
+
